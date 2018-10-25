@@ -54,7 +54,7 @@ Zodiac::Chinese - Generate Chinese Zodiac
 
 =head1 DESCRIPTION
 
-The Zodiac::Chinese module provides a chinese_zodiac command, which generates a Chinese zodiac sign from a given date. It currently doesn't account for differences between the lunar calendar and Gregorian calendar, so signs generated for late January or early February may be off.
+The Zodiac::Chinese module provides a ChineseZodiac class, which generates a Chinese zodiac sign from a given date. It currently doesn't account for differences between the lunar calendar and Gregorian calendar, so signs generated for late January or early February may be off.
 
 =head1 AUTHOR
 
