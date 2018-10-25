@@ -2,7 +2,7 @@ use v6.c;
 
 unit module Zodiac::Chinese:ver<0.0.1>:auth<cpan:tmtvl>;
 
-constant @directions = <yin yang>;
+constant @directions = <yang yin>;
 constant @elements   = ('metal' xx 2, 'water' xx 2, 'wood' xx 2, 'fire' xx 2, 'earth' xx 2).flat;
 constant @signs      = <monkey rooster dog pig rat ox tiger rabbit dragon snake horse sheep>;
 
